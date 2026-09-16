@@ -1,0 +1,39 @@
+# Java compiled files
+*.class
+
+# Build folders
+bin/
+out/
+build/
+target/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# NetBeans files
+nbproject/private/
+nbbuild/
+dist/
+.nb-gradle/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+GitHub file structure
+Telecom-Plan-Management/
+│
+├── Main.java
+├── README.md
+└── .gitignore
+File name: .gitignore
+Important: There is no file extension after .gitignore.
